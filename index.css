@@ -1,0 +1,40 @@
+body{
+    padding: 20px;
+    top: 0;
+    bottom: 0;
+    background-color: azure;
+}
+
+button{
+    padding: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    font-weight: bold;
+    font-size: 25px;
+    border: none;
+    border-radius: 20px;
+    text-decoration: solid;
+    justify-content: end;
+    align-items: end;
+    position: relative;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    box-shadow: 20px;
+    
+}
+
+h5{
+    font-size: 60px;
+    color: blueviolet;
+}
+.scope{
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    display: flex;
+    position: relative;
+    padding: 20px;
+}
